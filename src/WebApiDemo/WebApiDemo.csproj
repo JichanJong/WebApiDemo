@@ -161,8 +161,18 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\BaseJsonModel.cs" />
+    <Compile Include="Models\EntityJsonModel.cs" />
+    <Compile Include="Models\JsonResultModel.cs" />
+    <Compile Include="Models\NoModel.cs" />
     <Compile Include="Models\PageModel.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\RequestDetailModel.cs" />
+    <Compile Include="Models\RequestLineByPackageAndStorage.cs" />
+    <Compile Include="Models\SaveStorageOutListModel.cs" />
+    <Compile Include="Models\StorageAndPackageModel.cs" />
+    <Compile Include="Models\StoragePackageModel.cs" />
+    <Compile Include="Models\TodayRequestModel.cs" />
     <Compile Include="Modules\BasicAuthHttpModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
