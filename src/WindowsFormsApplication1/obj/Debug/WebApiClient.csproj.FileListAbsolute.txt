@@ -1,0 +1,9 @@
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\bin\Debug\WebApiClient.exe.config
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\bin\Debug\WebApiClient.exe
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\bin\Debug\WebApiClient.pdb
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.Form1.resources
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.Properties.Resources.resources
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.csproj.GenerateResource.Cache
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.exe
+E:\MyProject\WebApiDemo\src\WindowsFormsApplication1\obj\Debug\WebApiClient.pdb
