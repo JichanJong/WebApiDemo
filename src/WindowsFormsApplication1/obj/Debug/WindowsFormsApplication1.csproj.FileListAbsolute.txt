@@ -1,8 +1,0 @@
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-E:\MyProject\CarMall\src\WebApiSln\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

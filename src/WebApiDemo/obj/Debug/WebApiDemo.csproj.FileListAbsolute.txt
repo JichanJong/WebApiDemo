@@ -53,3 +53,4 @@ E:\MyProject\WebApiDemo\src\WebApiDemo\bin\zh-Hans\System.Web.WebPages.Deploymen
 E:\MyProject\WebApiDemo\src\WebApiDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 E:\MyProject\WebApiDemo\src\WebApiDemo\obj\Debug\WebApiDemo.dll
 E:\MyProject\WebApiDemo\src\WebApiDemo\obj\Debug\WebApiDemo.pdb
+E:\MyProject\WebApiDemo\src\WebApiDemo\obj\Debug\WebApiDemo.csprojResolveAssemblyReference.cache

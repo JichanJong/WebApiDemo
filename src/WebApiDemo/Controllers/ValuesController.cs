@@ -8,10 +8,11 @@ using System.Web;
 using System.Web.Http;
 using Newtonsoft.Json;
 using WebApiDemo.Models;
+using WebApiDemo.Filters;
 
 namespace WebApiDemo.Controllers
 {
-    [Authorize]
+    [BasicAuthorization]
     public class ValuesController : ApiController
     {
         // GET api/values

@@ -9,7 +9,7 @@ namespace WebApiDemo.Models
     {
         public string userId { get; set; }
 
-        public List<StorageAndPackageItem> data { get; set; };
+        public List<StorageAndPackageItem> data { get; set; }
     }
 
     public class StorageAndPackageItem
